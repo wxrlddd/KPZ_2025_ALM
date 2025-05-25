@@ -1,38 +1,70 @@
+# Лабораторна робота №1: Система обліку зоопарку
+
+**Мета роботи:** Навчитися дотримуватися принципів програмування (DRY, KISS, SOLID, YAGNI тощо).
+
+---
+
+## Структура проекту
 KPZ_2025_ALM/
 └── lab-1-zoo/
-    └── zoo/
-        ├── Interfaces/IReportable.cs
-        ├── Models/
-        │   ├── Animal.cs
-        │   ├── Enclosure.cs
-        │   ├── Feed.cs
-        │   └── Staff.cs
-        ├── Services/InventoryReporter.cs
-        ├── Program.cs
-        └── zoo.csproj
-```\n
----\n
-## Опис дотримання принципів програмування
+└── zoo/
+├── Interfaces/
+│ └── IReportable.cs
+├── Models/
+│ ├── Animal.cs
+│ ├── Enclosure.cs
+│ ├── Feed.cs
+│ └── Staff.cs
+├── Services/
+│ └── InventoryReporter.cs
+├── Program.cs
+└── zoo.csproj
 
-У цій секції наведено приклад реалізації кожного принципу, який демонструється в коді.
 
-1. **DRY (Don't Repeat Yourself)**\n   - Виділено інтерфейс `IReportable` в **Interfaces/IReportable.cs**, щоб уніфікувати та переиспользувати метод `GetReport()` для різних реалізацій звітності ([IReportable.cs](./zoo/Interfaces/IReportable.cs)).\n
+---
 
-2. **KISS (Keep It Simple, Stupid)**\n   - Кожен клас виконує лише одну просту задачу: `Animal` зберігає дані про тварину, `Enclosure` — про вольєр, `Feed` — про корм, `Staff` — про персонал, `InventoryReporter` — формує звіт.\n   \n
-3. **SOLID**\n   - **S** (Single Responsibility):\n     - Клас `InventoryReporter` відповідає тільки за побудову звіту ([InventoryReporter.cs#L1-L5](./zoo/Services/InventoryReporter.cs#L1-L5)).\n   - **O** (Open/Closed):\n     - Можна додавати нові типи звітів, реалізуючи `IReportable`, без змін у класі звітування.\n   - **L** (Liskov Substitution):\n     - Будь-яка реалізація `IReportable` може замінити `InventoryReporter` у `Program.cs` без поломки логіки.\n   - **I** (Interface Segregation):\n     - Інтерфейс `IReportable` містить тільки один метод `GetReport()`, вузькоспрямований на потреби звітності.\n   - **D** (Dependency Inversion):\n     - `Program.cs` залежить не від конкретного класу звіту, а від абстракції `IReportable`: `IReportable reporter = new InventoryReporter(...);` ([Program.cs#L20](./zoo/Program.cs#L20)).\n
+## 1. Опис дотримання принципів програмування
 
-4. **YAGNI (You Aren't Gonna Need It)**\n   - Ніяких зайвих методів або полів у класах не створено — лише необхідне.
+1. **DRY (Don't Repeat Yourself)**  
+   Винесено інтерфейс `IReportable` в окремий файл **Interfaces/IReportable.cs**, щоб уникнути дублювання методу `GetReport()`.
 
-5. **Composition over Inheritance**\n   - Клас `InventoryReporter` отримує колекції моделей (`List<Animal>`, `List<Staff>`, `List<Enclosure>`, `List<Feed>`) через конструктор, а не наслідується від них. ([InventoryReporter.cs#L7-L10](./zoo/Services/InventoryReporter.cs#L7-L10)).\n
+2. **KISS (Keep It Simple, Stupid)**  
+   Клас `Animal` зберігає тільки дані про тварину; `Enclosure` — дані про вольєр; `Feed` — дані про корм; `Staff` — дані про працівника; `InventoryReporter` формує звіт.
 
-6. **Program to Interfaces, not Implementations**\n   - В `Program.cs` застосовано тип `IReportable` для змінної, а не конкретний клас: `IReportable reporter = new InventoryReporter(...);`\n
+3. **SOLID**  
+   - **S** (Single Responsibility): кожен клас виконує лише одну відповідальність.  
+   - **O** (Open/Closed): можна додати нові реалізації `IReportable` без зміни існуючого коду.  
+   - **L** (Liskov Substitution): будь-яка реалізація `IReportable` може замінити іншу.  
+   - **I** (Interface Segregation): `IReportable` містить лише метод, необхідний для звітування.  
+   - **D** (Dependency Inversion): `Program.cs` залежить від абстракції `IReportable`, а не від конкретного класу.
 
-7. **Fail Fast**\n   - Конструктор `InventoryReporter` не перехоплює помилки при null-колекціях — якщо передати null, програма впаде відразу, що дозволяє швидко виявити проблему.
+4. **YAGNI (You Aren't Gonna Need It)**  
+   У коді реалізовано лише необхідну для роботи логіку без зайвого функціоналу.
 
----\n
-**Запуск проекту:**\n1. Відкрити рішення `KPZ_2025_ALM.sln` в Visual Studio.\n2. Встановити проект `zoo` як стартап.\n3. Налаштувати `Console.OutputEncoding = UTF8` в `Program.cs`.\n4. Збірка та запуск (Ctrl+F5).\n
+5. **Composition over Inheritance**  
+   `InventoryReporter` отримує сервіси та дані через конструктор (композиція), а не наслідується від них.
 
-**Запуск тестів:**\n1. Відкрити Test Explorer.\n2. Натиснути "Run All".\n
+6. **Program to Interfaces, not Implementations**  
+   Змінна звітності оголошена як `IReportable reporter`, а не як конкретний клас.
 
----\n
+7. **Fail Fast**  
+   Якщо передати в `InventoryReporter` некоректні дані (null-колекції), програма завершиться помилкою одразу.
+
+---
+
+## 2. Запуск проекту
+1. Відкрити рішення `KPZ_2025_ALM.sln` в Visual Studio.  
+2. Встановити проект **zoo** як стартовий.  
+3. Переконатися, що в `Program.cs` встановлено `Console.OutputEncoding = Encoding.UTF8`.  
+4. Зібрати та запустити (Ctrl+F5).
+
+## 3. Запуск тестів
+1. Відкрити **Test Explorer**.  
+2. Натиснути **Run All**.
+
+---
+
+## 4. UML-діаграма
+![UML-діаграма](.C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\лаб1.drawio)
+
 *Кінець README*
