@@ -1,0 +1,7 @@
+C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 2\Lab2\Lab2.Task3.Singleton\SingletonPattern\bin\Debug\SingletonPattern.exe.config
+C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 2\Lab2\Lab2.Task3.Singleton\SingletonPattern\bin\Debug\SingletonPattern.exe
+C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 2\Lab2\Lab2.Task3.Singleton\SingletonPattern\bin\Debug\SingletonPattern.pdb
+C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 2\Lab2\Lab2.Task3.Singleton\SingletonPattern\obj\Debug\SingletonPattern.csproj.AssemblyReference.cache
+C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 2\Lab2\Lab2.Task3.Singleton\SingletonPattern\obj\Debug\SingletonPattern.csproj.CoreCompileInputs.cache
+C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 2\Lab2\Lab2.Task3.Singleton\SingletonPattern\obj\Debug\SingletonPattern.exe
+C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 2\Lab2\Lab2.Task3.Singleton\SingletonPattern\obj\Debug\SingletonPattern.pdb

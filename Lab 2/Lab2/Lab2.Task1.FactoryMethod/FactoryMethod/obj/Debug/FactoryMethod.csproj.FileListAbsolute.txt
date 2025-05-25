@@ -1,0 +1,7 @@
+C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 2\Lab2\Lab2.Task1.FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 2\Lab2\Lab2.Task1.FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 2\Lab2\Lab2.Task1.FactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 2\Lab2\Lab2.Task1.FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.csproj.AssemblyReference.cache
+C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 2\Lab2\Lab2.Task1.FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 2\Lab2\Lab2.Task1.FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.exe
+C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 2\Lab2\Lab2.Task1.FactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.pdb
