@@ -3,24 +3,23 @@
 **Мета роботи:** Навчитися дотримуватися принципів програмування (DRY, KISS, SOLID, YAGNI тощо).
 
 ---
-
+'''
 ## Структура проекту
 KPZ_2025_ALM/
-└── lab-1-zoo/
-└── zoo/
-├── Interfaces/
-│ └── IReportable.cs
-├── Models/
-│ ├── Animal.cs
-│ ├── Enclosure.cs
-│ ├── Feed.cs
-│ └── Staff.cs
-├── Services/
-│ └── InventoryReporter.cs
-├── Program.cs
-└── zoo.csproj
-
-
+└─ lab-1-zoo/
+└─ zoo/
+├─ Interfaces/
+│ └─ IReportable.cs
+├─ Models/
+│ ├─ Animal.cs
+│ ├─ Enclosure.cs
+│ ├─ Feed.cs
+│ └─ Staff.cs
+├─ Services/
+│ └─ InventoryReporter.cs
+├─ Program.cs
+└─ zoo.csproj
+'''
 ---
 
 ## 1. Опис дотримання принципів програмування
@@ -65,6 +64,6 @@ KPZ_2025_ALM/
 ---
 
 ## 4. UML-діаграма
-![UML-діаграма](.C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\лаб1.drawio)
+![UML-діаграма](../лаб1.drawio.png)
 
 *Кінець README*
