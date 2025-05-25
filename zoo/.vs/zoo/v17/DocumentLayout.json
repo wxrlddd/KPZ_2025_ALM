@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\novor\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\KPZ\\lab-1-zoo\\zoo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC156A98-0676-4427-89E0-764D713CA8E9}|zoo\\zoo.csproj|c:\\users\\novor\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u043F\u043E\u043B\u0438\u0442\u0435\u0445\\kpz\\lab-1-zoo\\zoo\\zoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC156A98-0676-4427-89E0-764D713CA8E9}|zoo\\zoo.csproj|solutionrelative:zoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3573532F-114A-4DFA-8D4C-AFE4B5026429}|ZooLab.Tests\\ZooLab.Tests.csproj|c:\\users\\novor\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u043F\u043E\u043B\u0438\u0442\u0435\u0445\\kpz\\lab-1-zoo\\zoo\\zoolab.tests\\tests\\inventoryreportertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3573532F-114A-4DFA-8D4C-AFE4B5026429}|ZooLab.Tests\\ZooLab.Tests.csproj|solutionrelative:zoolab.tests\\tests\\inventoryreportertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3573532F-114A-4DFA-8D4C-AFE4B5026429}|ZooLab.Tests\\ZooLab.Tests.csproj|c:\\users\\novor\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u043F\u043E\u043B\u0438\u0442\u0435\u0445\\kpz\\lab-1-zoo\\zoo\\zoolab.tests\\zoolab.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3573532F-114A-4DFA-8D4C-AFE4B5026429}|ZooLab.Tests\\ZooLab.Tests.csproj|solutionrelative:zoolab.tests\\zoolab.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC156A98-0676-4427-89E0-764D713CA8E9}|zoo\\zoo.csproj|c:\\users\\novor\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u043F\u043E\u043B\u0438\u0442\u0435\u0445\\kpz\\lab-1-zoo\\zoo\\zoo\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EC156A98-0676-4427-89E0-764D713CA8E9}|zoo\\zoo.csproj|solutionrelative:zoo\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC156A98-0676-4427-89E0-764D713CA8E9}|zoo\\zoo.csproj|c:\\users\\novor\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u043F\u043E\u043B\u0438\u0442\u0435\u0445\\kpz\\lab-1-zoo\\zoo\\zoo\\services\\inventoryreporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC156A98-0676-4427-89E0-764D713CA8E9}|zoo\\zoo.csproj|solutionrelative:zoo\\services\\inventoryreporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC156A98-0676-4427-89E0-764D713CA8E9}|zoo\\zoo.csproj|c:\\users\\novor\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u043F\u043E\u043B\u0438\u0442\u0435\u0445\\kpz\\lab-1-zoo\\zoo\\zoo\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC156A98-0676-4427-89E0-764D713CA8E9}|zoo\\zoo.csproj|solutionrelative:zoo\\models\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC156A98-0676-4427-89E0-764D713CA8E9}|zoo\\zoo.csproj|c:\\users\\novor\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u043F\u043E\u043B\u0438\u0442\u0435\u0445\\kpz\\lab-1-zoo\\zoo\\zoo\\models\\feed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC156A98-0676-4427-89E0-764D713CA8E9}|zoo\\zoo.csproj|solutionrelative:zoo\\models\\feed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC156A98-0676-4427-89E0-764D713CA8E9}|zoo\\zoo.csproj|c:\\users\\novor\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u043F\u043E\u043B\u0438\u0442\u0435\u0445\\kpz\\lab-1-zoo\\zoo\\zoo\\models\\enclosure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC156A98-0676-4427-89E0-764D713CA8E9}|zoo\\zoo.csproj|solutionrelative:zoo\\models\\enclosure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC156A98-0676-4427-89E0-764D713CA8E9}|zoo\\zoo.csproj|c:\\users\\novor\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u043F\u043E\u043B\u0438\u0442\u0435\u0445\\kpz\\lab-1-zoo\\zoo\\zoo\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC156A98-0676-4427-89E0-764D713CA8E9}|zoo\\zoo.csproj|solutionrelative:zoo\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC156A98-0676-4427-89E0-764D713CA8E9}|zoo\\zoo.csproj|c:\\users\\novor\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u043F\u043E\u043B\u0438\u0442\u0435\u0445\\kpz\\lab-1-zoo\\zoo\\zoo\\interfaces\\ireportable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC156A98-0676-4427-89E0-764D713CA8E9}|zoo\\zoo.csproj|solutionrelative:zoo\\interfaces\\ireportable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventoryReporterTests.cs",
+              "DocumentMoniker": "C:\\Users\\novor\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\KPZ\\lab-1-zoo\\zoo\\ZooLab.Tests\\Tests\\InventoryReporterTests.cs",
+              "RelativeDocumentMoniker": "ZooLab.Tests\\Tests\\InventoryReporterTests.cs",
+              "ToolTip": "C:\\Users\\novor\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\KPZ\\lab-1-zoo\\zoo\\ZooLab.Tests\\Tests\\InventoryReporterTests.cs",
+              "RelativeToolTip": "ZooLab.Tests\\Tests\\InventoryReporterTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T11:48:59.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ZooLab.Tests",
+              "DocumentMoniker": "C:\\Users\\novor\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\KPZ\\lab-1-zoo\\zoo\\ZooLab.Tests\\ZooLab.Tests.csproj",
+              "RelativeDocumentMoniker": "ZooLab.Tests\\ZooLab.Tests.csproj",
+              "ToolTip": "C:\\Users\\novor\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\KPZ\\lab-1-zoo\\zoo\\ZooLab.Tests\\ZooLab.Tests.csproj",
+              "RelativeToolTip": "ZooLab.Tests\\ZooLab.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-25T11:47:36.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\novor\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\KPZ\\lab-1-zoo\\zoo\\zoo\\launchSettings.json",
+              "RelativeDocumentMoniker": "zoo\\launchSettings.json",
+              "ToolTip": "C:\\Users\\novor\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\KPZ\\lab-1-zoo\\zoo\\zoo\\launchSettings.json",
+              "RelativeToolTip": "zoo\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-25T11:37:25.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InventoryReporter.cs",
+              "DocumentMoniker": "C:\\Users\\novor\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\KPZ\\lab-1-zoo\\zoo\\zoo\\Services\\InventoryReporter.cs",
+              "RelativeDocumentMoniker": "zoo\\Services\\InventoryReporter.cs",
+              "ToolTip": "C:\\Users\\novor\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\KPZ\\lab-1-zoo\\zoo\\zoo\\Services\\InventoryReporter.cs",
+              "RelativeToolTip": "zoo\\Services\\InventoryReporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T11:26:52.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Users\\novor\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\KPZ\\lab-1-zoo\\zoo\\zoo\\Models\\Staff.cs",
+              "RelativeDocumentMoniker": "zoo\\Models\\Staff.cs",
+              "ToolTip": "C:\\Users\\novor\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\KPZ\\lab-1-zoo\\zoo\\zoo\\Models\\Staff.cs",
+              "RelativeToolTip": "zoo\\Models\\Staff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T11:26:47.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Feed.cs",
+              "DocumentMoniker": "C:\\Users\\novor\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\KPZ\\lab-1-zoo\\zoo\\zoo\\Models\\Feed.cs",
+              "RelativeDocumentMoniker": "zoo\\Models\\Feed.cs",
+              "ToolTip": "C:\\Users\\novor\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\KPZ\\lab-1-zoo\\zoo\\zoo\\Models\\Feed.cs",
+              "RelativeToolTip": "zoo\\Models\\Feed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T11:26:41.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Enclosure.cs",
+              "DocumentMoniker": "C:\\Users\\novor\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\KPZ\\lab-1-zoo\\zoo\\zoo\\Models\\Enclosure.cs",
+              "RelativeDocumentMoniker": "zoo\\Models\\Enclosure.cs",
+              "ToolTip": "C:\\Users\\novor\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\KPZ\\lab-1-zoo\\zoo\\zoo\\Models\\Enclosure.cs",
+              "RelativeToolTip": "zoo\\Models\\Enclosure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T11:26:35.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\novor\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\KPZ\\lab-1-zoo\\zoo\\zoo\\Models\\Animal.cs",
+              "RelativeDocumentMoniker": "zoo\\Models\\Animal.cs",
+              "ToolTip": "C:\\Users\\novor\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\KPZ\\lab-1-zoo\\zoo\\zoo\\Models\\Animal.cs",
+              "RelativeToolTip": "zoo\\Models\\Animal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T11:26:28.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IReportable.cs",
+              "DocumentMoniker": "C:\\Users\\novor\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\KPZ\\lab-1-zoo\\zoo\\zoo\\Interfaces\\IReportable.cs",
+              "RelativeDocumentMoniker": "zoo\\Interfaces\\IReportable.cs",
+              "ToolTip": "C:\\Users\\novor\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\KPZ\\lab-1-zoo\\zoo\\zoo\\Interfaces\\IReportable.cs",
+              "RelativeToolTip": "zoo\\Interfaces\\IReportable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T11:26:21.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\novor\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\KPZ\\lab-1-zoo\\zoo\\zoo\\Program.cs",
+              "RelativeDocumentMoniker": "zoo\\Program.cs",
+              "ToolTip": "C:\\Users\\novor\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\KPZ\\lab-1-zoo\\zoo\\zoo\\Program.cs",
+              "RelativeToolTip": "zoo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T11:25:40.179Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
