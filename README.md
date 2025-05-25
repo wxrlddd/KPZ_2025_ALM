@@ -63,4 +63,5 @@ KPZ_2025_ALM/
 
 ## 4. UML-діаграма
 ![UML-діаграма](./lab-1-zoo/zoo/лаб1.drawio.png)
+
 *Кінець README*
