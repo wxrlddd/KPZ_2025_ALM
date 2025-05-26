@@ -1,0 +1,7 @@
+C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 3\Lab3.Flyweight\Lab3.Flyweight\bin\Debug\Lab3.Flyweight.exe.config
+C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 3\Lab3.Flyweight\Lab3.Flyweight\bin\Debug\Lab3.Flyweight.exe
+C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 3\Lab3.Flyweight\Lab3.Flyweight\bin\Debug\Lab3.Flyweight.pdb
+C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 3\Lab3.Flyweight\Lab3.Flyweight\obj\Debug\Lab3.Flyweight.csproj.AssemblyReference.cache
+C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 3\Lab3.Flyweight\Lab3.Flyweight\obj\Debug\Lab3.Flyweight.csproj.CoreCompileInputs.cache
+C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 3\Lab3.Flyweight\Lab3.Flyweight\obj\Debug\Lab3.Flyweight.exe
+C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 3\Lab3.Flyweight\Lab3.Flyweight\obj\Debug\Lab3.Flyweight.pdb

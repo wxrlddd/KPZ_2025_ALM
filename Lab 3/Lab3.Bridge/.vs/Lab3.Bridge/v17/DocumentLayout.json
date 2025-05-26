@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\novor\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\KPZ\\lab-1-zoo\\Lab 3\\Lab3.Bridge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C623BF-F9DD-450B-9B3C-49378D1D5D04}|Lab3.Bridge\\Lab3.Bridge.csproj|c:\\users\\novor\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u043F\u043E\u043B\u0438\u0442\u0435\u0445\\kpz\\lab-1-zoo\\lab 3\\lab3.bridge\\lab3.bridge\\rasterrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C623BF-F9DD-450B-9B3C-49378D1D5D04}|Lab3.Bridge\\Lab3.Bridge.csproj|solutionrelative:lab3.bridge\\rasterrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C623BF-F9DD-450B-9B3C-49378D1D5D04}|Lab3.Bridge\\Lab3.Bridge.csproj|c:\\users\\novor\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u043F\u043E\u043B\u0438\u0442\u0435\u0445\\kpz\\lab-1-zoo\\lab 3\\lab3.bridge\\lab3.bridge\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C623BF-F9DD-450B-9B3C-49378D1D5D04}|Lab3.Bridge\\Lab3.Bridge.csproj|solutionrelative:lab3.bridge\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C623BF-F9DD-450B-9B3C-49378D1D5D04}|Lab3.Bridge\\Lab3.Bridge.csproj|c:\\users\\novor\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u043F\u043E\u043B\u0438\u0442\u0435\u0445\\kpz\\lab-1-zoo\\lab 3\\lab3.bridge\\lab3.bridge\\vectorrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C623BF-F9DD-450B-9B3C-49378D1D5D04}|Lab3.Bridge\\Lab3.Bridge.csproj|solutionrelative:lab3.bridge\\vectorrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C623BF-F9DD-450B-9B3C-49378D1D5D04}|Lab3.Bridge\\Lab3.Bridge.csproj|c:\\users\\novor\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u043F\u043E\u043B\u0438\u0442\u0435\u0445\\kpz\\lab-1-zoo\\lab 3\\lab3.bridge\\lab3.bridge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C623BF-F9DD-450B-9B3C-49378D1D5D04}|Lab3.Bridge\\Lab3.Bridge.csproj|solutionrelative:lab3.bridge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C623BF-F9DD-450B-9B3C-49378D1D5D04}|Lab3.Bridge\\Lab3.Bridge.csproj|c:\\users\\novor\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u043F\u043E\u043B\u0438\u0442\u0435\u0445\\kpz\\lab-1-zoo\\lab 3\\lab3.bridge\\lab3.bridge\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C623BF-F9DD-450B-9B3C-49378D1D5D04}|Lab3.Bridge\\Lab3.Bridge.csproj|solutionrelative:lab3.bridge\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C623BF-F9DD-450B-9B3C-49378D1D5D04}|Lab3.Bridge\\Lab3.Bridge.csproj|c:\\users\\novor\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u043F\u043E\u043B\u0438\u0442\u0435\u0445\\kpz\\lab-1-zoo\\lab 3\\lab3.bridge\\lab3.bridge\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C623BF-F9DD-450B-9B3C-49378D1D5D04}|Lab3.Bridge\\Lab3.Bridge.csproj|solutionrelative:lab3.bridge\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C623BF-F9DD-450B-9B3C-49378D1D5D04}|Lab3.Bridge\\Lab3.Bridge.csproj|c:\\users\\novor\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u043F\u043E\u043B\u0438\u0442\u0435\u0445\\kpz\\lab-1-zoo\\lab 3\\lab3.bridge\\lab3.bridge\\irenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C623BF-F9DD-450B-9B3C-49378D1D5D04}|Lab3.Bridge\\Lab3.Bridge.csproj|solutionrelative:lab3.bridge\\irenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Square.cs",
+              "DocumentMoniker": "C:\\Users\\novor\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\KPZ\\lab-1-zoo\\Lab 3\\Lab3.Bridge\\Lab3.Bridge\\Square.cs",
+              "RelativeDocumentMoniker": "Lab3.Bridge\\Square.cs",
+              "ToolTip": "C:\\Users\\novor\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\KPZ\\lab-1-zoo\\Lab 3\\Lab3.Bridge\\Lab3.Bridge\\Square.cs",
+              "RelativeToolTip": "Lab3.Bridge\\Square.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T20:30:39.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\novor\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\KPZ\\lab-1-zoo\\Lab 3\\Lab3.Bridge\\Lab3.Bridge\\Circle.cs",
+              "RelativeDocumentMoniker": "Lab3.Bridge\\Circle.cs",
+              "ToolTip": "C:\\Users\\novor\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\KPZ\\lab-1-zoo\\Lab 3\\Lab3.Bridge\\Lab3.Bridge\\Circle.cs",
+              "RelativeToolTip": "Lab3.Bridge\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T20:30:24.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\novor\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\KPZ\\lab-1-zoo\\Lab 3\\Lab3.Bridge\\Lab3.Bridge\\Shape.cs",
+              "RelativeDocumentMoniker": "Lab3.Bridge\\Shape.cs",
+              "ToolTip": "C:\\Users\\novor\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\KPZ\\lab-1-zoo\\Lab 3\\Lab3.Bridge\\Lab3.Bridge\\Shape.cs",
+              "RelativeToolTip": "Lab3.Bridge\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T20:30:14.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RasterRenderer.cs",
+              "DocumentMoniker": "C:\\Users\\novor\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\KPZ\\lab-1-zoo\\Lab 3\\Lab3.Bridge\\Lab3.Bridge\\RasterRenderer.cs",
+              "RelativeDocumentMoniker": "Lab3.Bridge\\RasterRenderer.cs",
+              "ToolTip": "C:\\Users\\novor\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\KPZ\\lab-1-zoo\\Lab 3\\Lab3.Bridge\\Lab3.Bridge\\RasterRenderer.cs",
+              "RelativeToolTip": "Lab3.Bridge\\RasterRenderer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T20:30:03.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VectorRenderer.cs",
+              "DocumentMoniker": "C:\\Users\\novor\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\KPZ\\lab-1-zoo\\Lab 3\\Lab3.Bridge\\Lab3.Bridge\\VectorRenderer.cs",
+              "RelativeDocumentMoniker": "Lab3.Bridge\\VectorRenderer.cs",
+              "ToolTip": "C:\\Users\\novor\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\KPZ\\lab-1-zoo\\Lab 3\\Lab3.Bridge\\Lab3.Bridge\\VectorRenderer.cs",
+              "RelativeToolTip": "Lab3.Bridge\\VectorRenderer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T20:29:51.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRenderer.cs",
+              "DocumentMoniker": "C:\\Users\\novor\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\KPZ\\lab-1-zoo\\Lab 3\\Lab3.Bridge\\Lab3.Bridge\\IRenderer.cs",
+              "RelativeDocumentMoniker": "Lab3.Bridge\\IRenderer.cs",
+              "ToolTip": "C:\\Users\\novor\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\KPZ\\lab-1-zoo\\Lab 3\\Lab3.Bridge\\Lab3.Bridge\\IRenderer.cs",
+              "RelativeToolTip": "Lab3.Bridge\\IRenderer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T20:29:34.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\novor\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\KPZ\\lab-1-zoo\\Lab 3\\Lab3.Bridge\\Lab3.Bridge\\Program.cs",
+              "RelativeDocumentMoniker": "Lab3.Bridge\\Program.cs",
+              "ToolTip": "C:\\Users\\novor\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\\u041F\u043E\u043B\u0438\u0442\u0435\u0445\\KPZ\\lab-1-zoo\\Lab 3\\Lab3.Bridge\\Lab3.Bridge\\Program.cs",
+              "RelativeToolTip": "Lab3.Bridge\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T20:29:28.641Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

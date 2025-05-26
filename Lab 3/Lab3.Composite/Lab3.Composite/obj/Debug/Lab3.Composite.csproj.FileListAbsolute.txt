@@ -1,0 +1,7 @@
+C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 3\Lab3.Composite\Lab3.Composite\obj\Debug\Lab3.Composite.csproj.AssemblyReference.cache
+C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 3\Lab3.Composite\Lab3.Composite\obj\Debug\Lab3.Composite.csproj.CoreCompileInputs.cache
+C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 3\Lab3.Composite\Lab3.Composite\bin\Debug\Lab3.Composite.exe.config
+C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 3\Lab3.Composite\Lab3.Composite\bin\Debug\Lab3.Composite.exe
+C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 3\Lab3.Composite\Lab3.Composite\bin\Debug\Lab3.Composite.pdb
+C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 3\Lab3.Composite\Lab3.Composite\obj\Debug\Lab3.Composite.exe
+C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 3\Lab3.Composite\Lab3.Composite\obj\Debug\Lab3.Composite.pdb
