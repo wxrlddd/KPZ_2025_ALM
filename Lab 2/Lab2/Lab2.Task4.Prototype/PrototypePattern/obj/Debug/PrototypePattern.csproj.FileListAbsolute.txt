@@ -1,7 +1,0 @@
-C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 2\Lab2\Lab2.Task4.Prototype\PrototypePattern\obj\Debug\PrototypePattern.csproj.AssemblyReference.cache
-C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 2\Lab2\Lab2.Task4.Prototype\PrototypePattern\obj\Debug\PrototypePattern.csproj.CoreCompileInputs.cache
-C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 2\Lab2\Lab2.Task4.Prototype\PrototypePattern\bin\Debug\PrototypePattern.exe.config
-C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 2\Lab2\Lab2.Task4.Prototype\PrototypePattern\bin\Debug\PrototypePattern.exe
-C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 2\Lab2\Lab2.Task4.Prototype\PrototypePattern\bin\Debug\PrototypePattern.pdb
-C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 2\Lab2\Lab2.Task4.Prototype\PrototypePattern\obj\Debug\PrototypePattern.exe
-C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 2\Lab2\Lab2.Task4.Prototype\PrototypePattern\obj\Debug\PrototypePattern.pdb

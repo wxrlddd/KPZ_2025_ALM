@@ -1,7 +1,0 @@
-C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 2\Lab2\Lab2.Task2.AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe.config
-C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 2\Lab2\Lab2.Task2.AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.exe
-C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 2\Lab2\Lab2.Task2.AbstractFactory\AbstractFactory\bin\Debug\AbstractFactory.pdb
-C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 2\Lab2\Lab2.Task2.AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csproj.AssemblyReference.cache
-C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 2\Lab2\Lab2.Task2.AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
-C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 2\Lab2\Lab2.Task2.AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.exe
-C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 2\Lab2\Lab2.Task2.AbstractFactory\AbstractFactory\obj\Debug\AbstractFactory.pdb
