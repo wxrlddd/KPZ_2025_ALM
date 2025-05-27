@@ -1,7 +1,0 @@
-C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 3\Lab3.Adapter\Lab3.Adapter\bin\Debug\Lab3.Adapter.exe.config
-C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 3\Lab3.Adapter\Lab3.Adapter\bin\Debug\Lab3.Adapter.exe
-C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 3\Lab3.Adapter\Lab3.Adapter\bin\Debug\Lab3.Adapter.pdb
-C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 3\Lab3.Adapter\Lab3.Adapter\obj\Debug\Lab3.Adapter.csproj.AssemblyReference.cache
-C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 3\Lab3.Adapter\Lab3.Adapter\obj\Debug\Lab3.Adapter.csproj.CoreCompileInputs.cache
-C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 3\Lab3.Adapter\Lab3.Adapter\obj\Debug\Lab3.Adapter.exe
-C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 3\Lab3.Adapter\Lab3.Adapter\obj\Debug\Lab3.Adapter.pdb

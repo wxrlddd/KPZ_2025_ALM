@@ -1,0 +1,25 @@
+# Игнорируем локальные настройки Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Папки сборки
+bin/
+obj/
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.cache
+
+# Пакеты NuGet
+*.nupkg
+packages/
+
+# Результаты тестов
+TestResults/
+
+# Исключаем Lab 3
+Lab 3/

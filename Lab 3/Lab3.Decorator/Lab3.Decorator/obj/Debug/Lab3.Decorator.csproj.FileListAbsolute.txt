@@ -1,7 +1,0 @@
-C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 3\Lab3.Decorator\Lab3.Decorator\bin\Debug\Lab3.Decorator.exe.config
-C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 3\Lab3.Decorator\Lab3.Decorator\bin\Debug\Lab3.Decorator.exe
-C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 3\Lab3.Decorator\Lab3.Decorator\bin\Debug\Lab3.Decorator.pdb
-C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 3\Lab3.Decorator\Lab3.Decorator\obj\Debug\Lab3.Decorator.csproj.AssemblyReference.cache
-C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 3\Lab3.Decorator\Lab3.Decorator\obj\Debug\Lab3.Decorator.csproj.CoreCompileInputs.cache
-C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 3\Lab3.Decorator\Lab3.Decorator\obj\Debug\Lab3.Decorator.exe
-C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 3\Lab3.Decorator\Lab3.Decorator\obj\Debug\Lab3.Decorator.pdb

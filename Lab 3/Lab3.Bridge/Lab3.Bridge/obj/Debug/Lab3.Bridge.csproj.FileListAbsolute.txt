@@ -1,7 +1,0 @@
-C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 3\Lab3.Bridge\Lab3.Bridge\bin\Debug\Lab3.Bridge.exe.config
-C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 3\Lab3.Bridge\Lab3.Bridge\bin\Debug\Lab3.Bridge.exe
-C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 3\Lab3.Bridge\Lab3.Bridge\bin\Debug\Lab3.Bridge.pdb
-C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 3\Lab3.Bridge\Lab3.Bridge\obj\Debug\Lab3.Bridge.csproj.AssemblyReference.cache
-C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 3\Lab3.Bridge\Lab3.Bridge\obj\Debug\Lab3.Bridge.csproj.CoreCompileInputs.cache
-C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 3\Lab3.Bridge\Lab3.Bridge\obj\Debug\Lab3.Bridge.exe
-C:\Users\novor\OneDrive\Робочий стіл\Политех\KPZ\lab-1-zoo\Lab 3\Lab3.Bridge\Lab3.Bridge\obj\Debug\Lab3.Bridge.pdb
