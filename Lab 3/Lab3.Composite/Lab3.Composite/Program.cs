@@ -9,28 +9,26 @@ namespace Lab3.Composite
         {
             Console.OutputEncoding = Encoding.UTF8;
 
+            // існуючий приклад
             var root = new LightElementNode("div", false, new[] { "container" });
             var p = new LightElementNode("p");
-            var img = new LightElementNode("img", true, new[] { "img-responsive", "rounded" });
-
             root.AddChild(p);
             p.AddChild(new LightTextNode("Привіт, світ!"));
-            root.AddChild(img);
 
-            root.AddEventListener("click", () => Console.WriteLine("Div: обробник click"));
-            p.AddEventListener("mouseover", () => Console.WriteLine("P: обробник mouseover"));
-            img.AddEventListener("click", () => Console.WriteLine("Img: клік по зображенню"));
+            // новий елемент Image
+            var imgLocal = new LightImageNode(@"C:\pictures\photo.jpg");
+            var imgWeb = new LightImageNode("https://site.com/pic.png");
 
-            Console.WriteLine("=== outerHTML ===");
+            root.AddChild(imgLocal);
+            root.AddChild(imgWeb);
+
+            Console.WriteLine("=== HTML ===");
             Console.WriteLine(root.OuterHTML());
-            Console.WriteLine("\n=== innerHTML ===");
-            Console.WriteLine(root.InnerHTML());
             Console.WriteLine();
 
-            Console.WriteLine("=== Симуляція подій ===");
-            root.DispatchEvent("click");
-            p.DispatchEvent("mouseover");
-            img.DispatchEvent("click");
+            Console.WriteLine("=== Simulate image loading ===");
+            imgLocal.Load();
+            imgWeb.Load();
         }
     }
 }
