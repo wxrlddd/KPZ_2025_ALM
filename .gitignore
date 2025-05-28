@@ -1,0 +1,14 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.vcxproj.user
+
+# Папки сборки
+bin/
+obj/
+
+# Файлы настроек
+*.cache
+*.json
