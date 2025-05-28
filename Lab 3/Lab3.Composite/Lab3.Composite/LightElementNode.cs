@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
@@ -10,6 +11,8 @@ namespace Lab3.Composite
         public bool IsSelfClosing { get; }
         public List<string> Classes { get; }
         public List<LightNode> Children { get; }
+
+        private readonly Dictionary<string, List<Action>> listeners = new Dictionary<string, List<Action>>(StringComparer.OrdinalIgnoreCase);
 
         public LightElementNode(string tagName,
                                 bool isSelfClosing = false,
@@ -26,7 +29,7 @@ namespace Lab3.Composite
         public void AddChild(LightNode child)
         {
             if (IsSelfClosing)
-                return; // self-closing не може мати дітей
+                return;
             Children.Add(child);
         }
 
@@ -41,7 +44,6 @@ namespace Lab3.Composite
         public override string OuterHTML()
         {
             var sb = new StringBuilder();
-            // Формуємо атрибут class, якщо є класи
             var classAttr = Classes.Any()
                 ? $" class=\"{string.Join(" ", Classes)}\""
                 : "";
@@ -58,6 +60,23 @@ namespace Lab3.Composite
             }
 
             return sb.ToString();
+        }
+
+        public void AddEventListener(string eventType, Action handler)
+        {
+            if (!listeners.TryGetValue(eventType, out var list))
+            {
+                list = new List<Action>();
+                listeners[eventType] = list;
+            }
+            list.Add(handler);
+        }
+
+        public void DispatchEvent(string eventType)
+        {
+            if (listeners.TryGetValue(eventType, out var list))
+                foreach (var h in list)
+                    h();
         }
     }
 }

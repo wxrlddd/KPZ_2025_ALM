@@ -9,24 +9,28 @@ namespace Lab3.Composite
         {
             Console.OutputEncoding = Encoding.UTF8;
 
-            // Створюємо кореневий <div class="container">
-            var root = new LightElementNode("div", isSelfClosing: false, cssClasses: new[] { "container" });
-
-            // Додаємо абзац з текстом
+            var root = new LightElementNode("div", false, new[] { "container" });
             var p = new LightElementNode("p");
-            p.AddChild(new LightTextNode("Привіт, світ!"));
-            root.AddChild(p);
+            var img = new LightElementNode("img", true, new[] { "img-responsive", "rounded" });
 
-            // Додаємо self-closing зображення
-            var img = new LightElementNode("img", isSelfClosing: true, cssClasses: new[] { "img-responsive", "rounded" });
+            root.AddChild(p);
+            p.AddChild(new LightTextNode("Привіт, світ!"));
             root.AddChild(img);
 
-            // Виводимо результат
-            Console.WriteLine("=== outerHTML кореня ===");
+            root.AddEventListener("click", () => Console.WriteLine("Div: обробник click"));
+            p.AddEventListener("mouseover", () => Console.WriteLine("P: обробник mouseover"));
+            img.AddEventListener("click", () => Console.WriteLine("Img: клік по зображенню"));
+
+            Console.WriteLine("=== outerHTML ===");
             Console.WriteLine(root.OuterHTML());
-            Console.WriteLine();
-            Console.WriteLine("=== innerHTML кореня ===");
+            Console.WriteLine("\n=== innerHTML ===");
             Console.WriteLine(root.InnerHTML());
+            Console.WriteLine();
+
+            Console.WriteLine("=== Симуляція подій ===");
+            root.DispatchEvent("click");
+            p.DispatchEvent("mouseover");
+            img.DispatchEvent("click");
         }
     }
 }
